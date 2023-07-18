@@ -1,7 +1,7 @@
 {
   "name": "Qollection",
   "version": "0.0.1",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "description": "Chrome Utilities Extension that consist of currency converter, weather reports based on location, unit converter, QR code generator, and many more",
   "homepage_url": "http://qollections.com.ng",
   "icons": {
